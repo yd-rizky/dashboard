@@ -8,7 +8,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: netbirdio/dashboard
+  IMAGE_NAME: rydiann/dashboard
 
 jobs:
   build_n_push:
